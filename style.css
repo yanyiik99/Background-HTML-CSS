@@ -1,0 +1,21 @@
+body{
+    background-color: #4AC29A;
+    background-image: url(img/logo2.png);
+    background-repeat:no-repeat;
+    background-position: top right;
+    background-size: 200px;
+    background-attachment:fixed;
+
+}
+
+p{
+    text-indent: 50px;
+    color:honeydew;
+}
+
+.logo{
+    color:transparent;
+    background-image: url(img/logo3.png);
+    background-repeat: repeat-x;
+    background-position: 500px;
+}
